@@ -1,5 +1,8 @@
 .widgets {
     flex: 0.3;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
   }
   
   .widgets__input {
@@ -10,6 +13,7 @@
     border-radius: 20px;
     margin-top: 10px;
     margin-left: 20px;
+    position:sticky;
   }
   
   .widgets__input > input {
@@ -22,6 +26,8 @@
   }
   
   .widgets__widgetContainer {
+
+    position:sticky;
     margin-top: 15px;
     margin-left: 20px;
     padding: 20px;
@@ -33,3 +39,8 @@
     font-size: 18px;
     font-weight: 800;
   }
+  
+  .widgets::-webkit-scrollbar{
+    display:none; 
+    /* for hiding scroll bar */
+}
