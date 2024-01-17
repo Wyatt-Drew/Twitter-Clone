@@ -1,3 +1,11 @@
-# Twitter-Clone
+# React Twitter Clone
 
-I built this Twitter Clone because I wanted to get some experience with React.  It uses the best features of various tutorials.  One day I hope on adding a backend to it, but I've put that on hold while Twitter discusses removing free access to its API.
+## Overview
+This project is a React-based implementation of a Twitter clone. It was created as a learning exercise to gain experience with React and to explore the functionalities of a social media platform like Twitter. The application is structured with a main App component that incorporates Sidebar, Feed, and Widgets components.
+
+* Note: This project has been discontinued due to uncertainty regarding the future of Twitter's APIs. As a result, it remains a partially finished clone, showcasing various features as a learning resource.
+
+## Features
+* Sidebar: A component that mimics the navigation sidebar of Twitter.
+* Feed: The main feed where tweets and content would be displayed.
+* Widgets: Additional UI elements that would typically display trending information or suggested follows.
