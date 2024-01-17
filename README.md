@@ -5,6 +5,9 @@ This project is a React-based implementation of a Twitter clone. It was created 
 
 * Note: This project has been discontinued due to uncertainty regarding the future of Twitter's APIs. As a result, it remains a partially finished clone, showcasing various features as a learning resource.
 
+## Deployment
+The application is deployed and accessible [here](https://wyatt-drew.github.io/Twitter-Clone/).
+
 ## Features
 * Sidebar: A component that mimics the navigation sidebar of Twitter.
 * Feed: The main feed where tweets and content would be displayed.
